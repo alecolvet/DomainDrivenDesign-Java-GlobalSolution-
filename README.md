@@ -1,0 +1,1 @@
+# DomainDrivenDesign-Java-GlobalSolution-
