@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛰️ GS - API de Soluções da Economia Espacial
 
 ## Integrantes do Grupo
@@ -181,3 +182,6 @@ http://localhost:8080/h2-console
 
 ## 🎥 Vídeo Explicativo
 > _(Inserir link do vídeo aqui)_
+=======
+# DomainDrivenDesign-Java-GlobalSolution-
+>>>>>>> 42e392520d429ae05efb2b00359ccb39b7b9d162
